@@ -10,4 +10,5 @@ Utilizando Bootstrap
 </div><br>
 
 Trata-se de uma página perfil web. 
+
 Este projeto está em constante aprimoramento, a fim de aplicar o conhecimento adiquirido no decorrer dos estudos. 
