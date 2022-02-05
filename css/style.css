@@ -7,17 +7,40 @@
     background-color: rgb(255, 255, 255);
 }
 
-.quem-somos {
-    background-color: rgb(235, 196, 196);
+
+.logo {
+    margin-left: 20px;
+}
+
+.Sobre-mim {
+    background-color: rgb(46, 46, 46);
     color: white;
 }
 
-.parceiros {
+.text-sobre {
+    text-align: left;
+}
+
+.foto {
+    margin-top: 10px;
+    margin-left: 70%;
+}
+
+.Experiencias {
     background-color: rgb(96, 128, 214);
     color: white;
 }
 
-.servicos {
+.text-ex {
+    text-align: left;
+}
+
+.Formacao-academica {
+    background-color: rgb(218, 218, 218);
+    color: rgb(59, 59, 59);
+}
+
+.Licencas-e-certificados {
     background-color: rgb(255, 255, 255);
     color: rgb(59, 59, 59);
 }
@@ -31,3 +54,18 @@
     background-color: rgb(46, 46, 46);
     color: rgb(255, 255, 255);
 }
+
+
+/* CONTACT lIST "FOOTER" */
+.contact_list {
+    text-align: center;
+    list-style-type: none;
+    padding-left: 15px;
+    margin-bottom: 30px;
+}
+.contact_list li a {
+    color: rgb(164, 170, 189);
+    text-decoration: none;
+}
+
+
